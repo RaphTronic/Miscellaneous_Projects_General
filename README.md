@@ -3,7 +3,7 @@
 Repository for various small projects.
 
 Details and instructions in the following posts:
-* Fans Controller for Fridge Cabinet
+* Fans Controller for Fridge Cabinet https://raphtronic.blogspot.com/2025/01/diy-fans-controller-for-fridge-cabinet.html
 
 Feel free to copy, remix, whatever.
 
